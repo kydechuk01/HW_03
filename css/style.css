@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a.nav-link { 
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px; /* добавляем пространство вокруг ссылок шапки */
+}
+
+a.nav-link:hover { 
+    color: red; /* выделяем красным при наведении */
+    border-bottom: 2px solid;  /* добавляем подчеркивание при наведении */          
+    background: rgb(244, 233, 233);
+}
+
+.main-quote {
+    background-color: rgb(255, 251, 169);
+    color: rgb(121, 26, 26);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+}
